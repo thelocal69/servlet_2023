@@ -1,0 +1,35 @@
+package com.hanghoathongminh.utils;
+
+import java.lang.reflect.InvocationTargetException;
+
+import javax.servlet.http.HttpServlet;
+
+public class FormUtil {
+	
+	public <T> T toModel(Class<T> clazz, HttpServlet req) {
+		T object = null;
+		try {
+			clazz.getDeclaredConstructor().newInstance();
+		} catch (InstantiationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IllegalAccessException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IllegalArgumentException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (InvocationTargetException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (NoSuchMethodException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SecurityException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return object;
+	}
+	
+}

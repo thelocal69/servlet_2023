@@ -1,0 +1,4 @@
+use servlet_web_data;
+
+INSERT INTO role(code, name) VALUES('ADMIN', 'Quản trị hệ thống');
+INSERT INTO role(code, name) VALUES('USER', 'Người dùn');

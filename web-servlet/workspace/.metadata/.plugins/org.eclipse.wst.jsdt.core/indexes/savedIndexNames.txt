@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2412733562.index
+2000925450.index
+4240070918.index
+3754479594.index
+1578550910.index
+2345911008.index
+319178520.index

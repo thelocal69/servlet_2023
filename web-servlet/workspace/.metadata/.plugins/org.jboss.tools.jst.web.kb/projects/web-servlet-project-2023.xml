@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="/home/thelocal69/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.jar"/>
+  <path value="/home/thelocal69/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+  <path value="/home/thelocal69/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2.jar"/>
+  <path value="/home/thelocal69/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/c-1_0-rt.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/c-1_0.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/c.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/fmt-1_0-rt.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/fmt-1_0.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/fmt.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/fn.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/permittedTaglibs.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/scriptfree.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/sql-1_0-rt.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/sql-1_0.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/sql.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/x-1_0-rt.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/x-1_0.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/META-INF/x.tld" project="web-servlet-project-2023"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/thelocal69/.m2/repository/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar"/>
+  <path value="/home/thelocal69/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar"/>
+  <path value="/home/thelocal69/.m2/repository/org/jboss/weld/servlet/weld-servlet/2.4.8.Final/weld-servlet-2.4.8.Final.jar"/>
+  <path value="/home/thelocal69/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.14.2/jackson-core-2.14.2.jar"/>
+  <path value="/home/thelocal69/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar"/>
+  <path value="/home/thelocal69/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <path value="/home/thelocal69/.m2/repository/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/META-INF/sitemesh-decorator.tld" project="web-servlet-project-2023"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/META-INF/sitemesh-page.tld" project="web-servlet-project-2023"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/thelocal69/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+  <path value="/home/thelocal69/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar"/>
+  <path value="/home/thelocal69/.m2/repository/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar"/>
+  <path value="/home/thelocal69/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <path value="/home/thelocal69/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+   <linked-resource name="%3;" path="%2"/>
+   <linked-resource name="%1;" path="%4"/>
+   <linked-resource name="%3;" path="%5"/>
+   <linked-resource name="%7;" path="%6"/>
+   <linked-resource name="%1;%3;" path="%8"/>
+   <linked-resource name="%9;" path="%3"/>
+   <linked-resource name="%1;%3;" path="%10"/>
+   <linked-resource name="%9;%12;" path="%11"/>
+  </core>
+  <el>
+   <linked-el length="28" name="%13" offset="1372" path="%14"/>
+   <linked-el length="18" name="%15" offset="1139" path="%14"/>
+   <linked-el length="23" name="%16" offset="4194" path="%14"/>
+   <linked-el length="23" name="%16" offset="4240" path="%14"/>
+   <linked-el length="19" name="%17" offset="1781" path="%14"/>
+   <linked-el length="28" name="%18" offset="1372" path="%14"/>
+   <linked-el length="26" name="%19" offset="2007" path="%14"/>
+   <linked-el length="23" name="%20" offset="4194" path="%14"/>
+   <linked-el length="23" name="%20" offset="4240" path="%14"/>
+   <linked-el length="20" name="%21" offset="1008" path="%22"/>
+   <linked-el length="28" name="%23" offset="1372" path="%14"/>
+   <linked-el length="32" name="%24" offset="4118" path="%14"/>
+   <linked-el length="18" name="%25" offset="1139" path="%14"/>
+   <linked-el length="23" name="%26" offset="4194" path="%14"/>
+   <linked-el length="18" name="%27" offset="1139" path="%14"/>
+   <linked-el length="23" name="%28" offset="2258" path="%14"/>
+   <linked-el length="13" name="%29" offset="1062" path="%22"/>
+   <linked-el length="24" name="%29" offset="1097" path="%22"/>
+   <linked-el length="24" name="%30" offset="1097" path="%22"/>
+   <linked-el length="32" name="%31" offset="4118" path="%14"/>
+   <linked-el length="27" name="%31" offset="3943" path="%14"/>
+   <linked-el length="32" name="%32" offset="4118" path="%14"/>
+   <linked-el length="27" name="%32" offset="3943" path="%14"/>
+   <linked-el length="27" name="%33" offset="3943" path="%14"/>
+   <linked-el length="26" name="%34" offset="2007" path="%14"/>
+   <linked-el length="13" name="%35" offset="1062" path="%22"/>
+   <linked-el length="15" name="%36" offset="1571" path="%14"/>
+   <linked-el length="28" name="%37" offset="1372" path="%14"/>
+   <linked-el length="23" name="%38" offset="2258" path="%14"/>
+   <linked-el length="32" name="%39" offset="4118" path="%14"/>
+   <linked-el length="27" name="%39" offset="3943" path="%14"/>
+   <linked-el length="20" name="%40" offset="1008" path="%22"/>
+   <linked-el length="15" name="%41" offset="1571" path="%14"/>
+   <linked-el length="23" name="%42" offset="2258" path="%14"/>
+   <linked-el length="26" name="%43" offset="2007" path="%14"/>
+   <linked-el length="19" name="%44" offset="1781" path="%14"/>
+   <linked-el length="23" name="%45" offset="4240" path="%14"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="api.version" value="%13"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/controller/admin/NewController.java" value="%9"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/service/impl/CategoryService.java" value="%1"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/dao/impl/NewDAO.java" value="%2"/>
+  <alias path="jsp" value="%15"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/dao/GenericDAO.java" value="%10"/>
+  <alias path="/web-servlet-project-2023/pom.xml" value="%14"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/dao/impl/AbstactDAO.java" value="%8"/>
+  <alias path="java" value="%16"/>
+  <alias path="sitemesh.version" value="%17"/>
+  <alias path="javax" value="%18"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/service/impl/NewService.java" value="%3"/>
+  <alias path="mysql" value="%19"/>
+  <alias path="java.complier" value="%20"/>
+  <alias path="model" value="%21"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/controller/admin/api/NewAPI.java" value="%12"/>
+  <alias path="api" value="%23"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/controller/web/HomeController.java" value="%7"/>
+  <alias path="compiler" value="%24"/>
+  <alias path="jsp.api.version" value="%25"/>
+  <alias path="java.complier.source" value="%26"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/webapp/views/admin/new/list.jsp" value="%22"/>
+  <alias path="jsp.api" value="%27"/>
+  <alias path="weld.servlet" value="%28"/>
+  <alias path="item" value="%29"/>
+  <alias path="item.shortDescription" value="%30"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/dao/impl/CategoryDAO.java" value="%0"/>
+  <alias path="maven" value="%31"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/dao/ICategoryDAO.java" value="%4"/>
+  <alias path="plugin.version" value="%32"/>
+  <alias path="war" value="%33"/>
+  <alias path="mysql.connector" value="%34"/>
+  <alias path="item.title" value="%35"/>
+  <alias path="jstl" value="%36"/>
+  <alias path="javax.servlet" value="%37"/>
+  <alias path="weld" value="%38"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/service/INewservice.java" value="%11"/>
+  <alias path="plugin" value="%39"/>
+  <alias path="model.listModel" value="%40"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/dao/INewDAO.java" value="%5"/>
+  <alias path="jstl.version" value="%41"/>
+  <alias path="weld.servlet.version" value="%42"/>
+  <alias
+   path="/web-servlet-project-2023/src/main/java/com/hanghoathongminh/service/ICategoryService.java" value="%6"/>
+  <alias path="mysql.connector.version" value="%43"/>
+  <alias path="sitemesh" value="%44"/>
+  <alias path="java.complier.target" value="%45"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://www.opensymphony.com/sitemesh/decorator">
+   <prefix>dec</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

@@ -1,0 +1,22 @@
+package com.hanghoathongminh.utils;
+
+import java.io.BufferedReader;
+
+public class HttpUtil {
+	
+	private String value;
+	
+	public HttpUtil() {
+		
+	}
+	
+	public static HttpUtil of(BufferedReader reader) {
+		StringBuilder sb = new StringBuilder();
+		String line = reader.readLine();
+		while (line != null) {
+			sb.append(line);
+		}
+		
+		return new HttpUtil();
+	}
+}

@@ -1,0 +1,19 @@
+package com.hanghoathongminh.utils;
+
+import javax.servlet.http.HttpServlet;
+
+public class FormUtil {
+	
+	public <T> T toModel(Class<T> tClass, HttpServlet req) {
+		T object = null;
+		try {
+			object = (T) tClass.newInstance();
+		} catch (InstantiationException e) {
+			System.out.println(e.getMessage());
+		} catch (IllegalAccessException e) {
+			System.out.println(e.getMessage());
+		}
+		return object;
+	}
+	
+}

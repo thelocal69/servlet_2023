@@ -1,0 +1,23 @@
+package com.hanghoathongminh.utils;
+
+import java.lang.reflect.InvocationTargetException;
+
+import javax.servlet.http.HttpServlet;
+
+import org.apache.commons.beanutils.BeanUtils;
+
+public class FormUtil {
+	
+	public <T> T toModel(Class<T> clazz, HttpServlet req) {
+		T object = null;
+		try {
+			clazz.getDeclaredConstructor().newInstance();
+			BeanUtils.populate(object, req.getParameterMap());
+		} catch (InstantiationException | IllegalAccessException | IllegalArgumentException | InvocationTargetException
+				| NoSuchMethodException | SecurityException e) {
+			System.out.println(e.getMessage());
+		}
+		return object;
+	}
+	
+}

@@ -1,0 +1,19 @@
+package com.hanghoathongminh.service;
+
+import java.util.List;
+
+import com.hanghoathongminh.model.NewModel;
+
+public interface INewservice {
+	List<NewModel> findByCategoryId(Long categoryId);
+
+	NewModel save(NewModel newModel);
+
+	NewModel update(NewModel updateNew);
+
+	void delete(long[] ids);
+
+	List<NewModel> findAll(int offset, int limit);
+
+	int getTotalItem();
+}

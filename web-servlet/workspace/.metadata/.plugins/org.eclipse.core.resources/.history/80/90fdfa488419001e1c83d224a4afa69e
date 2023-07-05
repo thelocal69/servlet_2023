@@ -1,0 +1,13 @@
+package com.hanghoathongminh.utils;
+
+import javax.servlet.http.HttpServlet;
+
+public class FormUtil {
+	
+	public <T> T toModel(Class<T> tClass, HttpServlet req) {
+		T object = null;
+		
+		return object;
+	}
+	
+}

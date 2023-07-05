@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HomeController.java&apos; to &apos;web-servlet-project-2023/src/main/java/com.hanghoathongminh.controller.admin&apos;&#x0A;- Original project: &apos;web-servlet-project-2023&apos;&#x0A;- Destination element: &apos;web-servlet-project-2023/src/main/java/com.hanghoathongminh.controller.admin&apos;&#x0A;- Original element: &apos;com.hanghoathongminh.controller.admin.HomeController.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hanghoathongminh.controller.admin" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hanghoathongminh.controller.admin{HomeController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1688088362629" units="1" version="1.0"/>
+</session>

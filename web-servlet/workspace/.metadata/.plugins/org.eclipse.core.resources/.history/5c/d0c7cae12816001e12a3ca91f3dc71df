@@ -1,0 +1,12 @@
+package com.hanghoathongminh.dao;
+
+import java.util.List;
+
+import com.hanghoathongminh.model.NewModel;
+
+public interface INewDAO {
+	NewModel findOne(Long id);
+	List<NewModel> findByCategoryId(Long caterogyId);
+	Long save(NewModel newModel);
+	void update(NewModel updateNew);
+}

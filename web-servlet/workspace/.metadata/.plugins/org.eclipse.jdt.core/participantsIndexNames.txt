@@ -1,0 +1,17 @@
+INDEX VERSION 1.132
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2652504552.index
+/web-servlet-project-2023/src/main/java
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/685392457.index
+/web-servlet-project-2023/src/main/java
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2000925450.index
+/web-servlet-project-2023/src/main/java
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2916547780.index
+/web-servlet-project-2023/src/main/java
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2340925743.index
+/web-servlet-project-2023/src/main/java
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3312925725.index
+/web-servlet-project-2023/src/main/java
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3003212903.index
+/web-servlet-project-2023/src/main/java
+/home/thelocal69/web-servlet/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/938462095.index
+/web-servlet-project-2023/src/main/java

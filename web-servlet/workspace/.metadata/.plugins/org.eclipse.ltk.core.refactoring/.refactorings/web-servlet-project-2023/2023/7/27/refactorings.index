@@ -1,0 +1,6 @@
+1688350950081	Encapsulate field 'listModel'
+1688355518544	Encapsulate field 'page'
+1688355523865	Encapsulate field 'maxPageItem'
+1688355545143	Encapsulate field 'totalPage'
+1688358892741	Encapsulate field 'totalItem'
+1688377295299	Infer generic type arguments

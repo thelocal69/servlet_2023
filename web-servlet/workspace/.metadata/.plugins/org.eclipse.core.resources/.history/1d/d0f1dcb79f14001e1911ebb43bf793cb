@@ -1,0 +1,5 @@
+package com.hanghoathongminh.utils;
+
+public class HttpUtil {
+
+}
